@@ -1,2 +1,2 @@
-# React Starter PAck
+# React Starter Pack
 
